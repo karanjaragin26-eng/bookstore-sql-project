@@ -35,9 +35,4 @@ It includes three relational tables:
 - ✅ Subqueries & filtering
 - ✅ Real-world database design
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/karanjaragin26-eng/bookstore-sql-project.git
 
